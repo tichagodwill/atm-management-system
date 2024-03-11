@@ -1,0 +1,11 @@
+Alice 0 10/10/2012 NOR 291321234 22432.52 saving
+
+rysya 123 10/10/2020 UK 1234123 12355.30 saving
+
+rysya 1 12/12/21 KAZ 111 111.00 saving
+
+rysya 30 11/11/11 KAZ 1580153276 100.00 current
+
+rysya 31 11/11/11 kz 1580153276 111.00 current
+
+rysya 32 11/11/11 kz 87479499196 120.00 current
